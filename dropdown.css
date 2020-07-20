@@ -1,15 +1,18 @@
-body{
+body {
 	font-family: Arial, Helvetica, sans-serif;
 }
-nav{
+
+nav {
 	border: 0px solid purple;
 }
-nav ul{
-list-style-type:none;
-border: purple 0px dotted;
-padding: 0;
-margin: 0;
+
+nav ul {
+	list-style-type:none;
+	border: purple 0px dotted;
+	padding: 0;
+	margin: 0;
 }
+
 nav li {
 	border:3px solid  yellow;
 	width:6rem;
@@ -28,7 +31,7 @@ nav a {
 	display: block;
 	padding: 0.5rem;
 }
-nav a:hover{
-background-color: white;
-color: red;
+	nav a:hover{
+	background-color: white;
+	color: red;
 }
